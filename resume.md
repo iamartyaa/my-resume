@@ -31,7 +31,7 @@ CGPA: 9.0/10
 <!-- #### repo-report <div class="link">[GitHub](https://github.com/ljharb/repo-report)</div> -->
 
 - Published & Improved articles on **GeeksforGeeks** portal on categories like Data Structures & Algorithms, SVG generators, protocols etc.
-<!-- - Published : [SVG Generators](https://www.geeksforgeeks.org/what-is-svg-generator-in-html5/) , [EIGRP Protocol](https://www.geeksforgeeks.org/what-is-the-benefit-of-eigrp/) , Improved : [Recursion](https://www.geeksforgeeks.org/recursion/) etc -->
+- Published : [SVG Generators](https://www.geeksforgeeks.org/what-is-svg-generator-in-html5/) , [EIGRP Protocol](https://www.geeksforgeeks.org/what-is-the-benefit-of-eigrp/) , Improved : [Recursion](https://www.geeksforgeeks.org/recursion/) etc
 
 ### <span>Hacktoberfest Maintainer</span> <span class="technologies">September 2021 -- November 2021</span>
 
