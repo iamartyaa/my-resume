@@ -43,5 +43,5 @@ A project which works on "Great Distance Formula".It helps in listing the name a
 
 - **Codechef** (max. 1627) 
 - **Google Hashcode** 2022 : Global rank 2990 , India rank 1204
-- 30 Days of Google Cloud Platform(Completed both the tracks and gained knowledge).
+- 30 Days of Google Cloud Platform : Completed Cloud Computing & Machine Learning tracks and gained Hands-on experience in Virtual Machines, Kubernetes clusters, BigQuery, etc.
 - Joint secretary @AutoRobClub HBTU
