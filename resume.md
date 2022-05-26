@@ -54,7 +54,7 @@ CGPA: 9.0/10
 
 An app to register yourself on Pirate island and kickstart your journey as an amazing Pirate. Ahoy !
 
-- Built with **Flutter** using the **Dart** & Flutter widgets |  **Material UI** Frontend for Android & **Cupertino** for iOS devices | Unique **UI/UX**
+- Built with **Flutter** using the **Dart** & Flutter widgets |  **Material UI** Frontend for Android | Immersive **UI/UX** | Twilio & Firebase
 
 ### <span class="project-heading">Ekart <div class="link">[GitHub](https://github.com/iamartyaa/shopapp) </div></span> <span class="technologies"> 3 Week (50+ hours)</span>
 
@@ -89,4 +89,4 @@ An app to display Meals according to different Cusines alongwith various filters
 - **Google Hashcode** 2022 : Global rank 2990 , India rank **1204**
 - **Rank 2** in **CodeChef HBTU Chapter** programming contest hosted on CodeChef. Won limited edition CodeChef water bottle  
 - 30 Days of Google Cloud Platform | Certified by **Milvus.io** Open source Contribution | Certified by **Google** & **Linkedin** Git & Version Control Systems
-- 6 months+ Experience with Application Development ( Android ) , RESTful APIs, Realtime Database, building unique UI/UX
+- **6 months+** Experience with Application Development ( Android ) , RESTful APIs, Realtime Database, building unique **UI/UX**
