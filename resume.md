@@ -19,8 +19,8 @@ CGPA: 9.0/10
 
 ## Skills & Technologies
 
-- **Languages**: Python, C/C++ , Dart - **Frontend**: Material UI, iOS Cupertino
-- **Technologies**: Flutter , Postman , Git - **Cloud**: Google Cloud Platform 
+- **Languages**: Python, C/C++ , Dart , JavaScript - **Frontend**: Material UI, iOS Cupertino 
+- **Technologies**: Flutter , Postman , Git / Github , Auth0 , Twilio - **Cloud & Others**: Google Cloud Platform , RESTful APIs , Firebase , UI/UX 
 
 ## Experience
 
@@ -46,34 +46,47 @@ CGPA: 9.0/10
 
 - Proficient in **Creating & Testing APIs** in Postman | Edit documentation & Write **pre-request scripts & tests** for API calls 
 <!-- - Edit documentation for a collection & Write **pre-request scripts & tests** for API calls  -->
-- Digitally verified Badge : **[Postman Student Expert | Amartya Yadav](https://badgr.com/public/assertions/0GUB-Rf7TkCqSkKVWCgsjw?identity__email=iamartyayadav@gmail.com)**
+<!-- - Digitally verified Badge : **[Postman Student Expert | Amartya Yadav](https://badgr.com/public/assertions/0GUB-Rf7TkCqSkKVWCgsjw?identity__email=iamartyayadav@gmail.com)** -->
 
 ## Projects
 
-### <span class="project-heading">MyWallet App <div class="link">[GitHub](https://github.com/iamartyaa/MyWallet-App) </div></span> <span class="technologies"> 1 Week (6+ hours)</span>
+### <span class="project-heading">Pirates<div class="link">[GitHub](https://github.com/iamartyaa/pirate_app) </div></span> <span class="technologies"> 1 Week (36+ hours)</span>
+
+An app to register yourself on Pirate island and kickstart your journey as an amazing Pirate. Ahoy !
+
+- Built with **Flutter** using the **Dart** & Flutter widgets |  **Material UI** Frontend for Android & **Cupertino** for iOS devices | Unique **UI/UX**
+
+### <span class="project-heading">Ekart <div class="link">[GitHub](https://github.com/iamartyaa/shopapp) </div></span> <span class="technologies"> 3 Week (50+ hours)</span>
+
+A Shopping app with almost all the features that a real-world e-commerce app offers.
+
+- Built with **Flutter** using the **Dart** & Flutter widgets |  **Material UI** Frontend for Android & **Cupertino** for iOS devices
+- Amazing **UI/UX** | Authentication ( Login / Sign Up) with **Firebase** | Fetching data with **RESTful APIs** | **Realtime Firebase** database
+
+### <span class="project-heading">MyWallet<div class="link">[GitHub](https://github.com/iamartyaa/MyWallet-App) </div></span> <span class="technologies"> 1 Week (10+ hours)</span>
 
 An app to keep track of all user transactions & display a bar graph showing transactions made on each day over the last week.
 
-- Built with **Flutter** using the **Dart** & Flutter widgets |  **Material UI** Frontend for Android & **Cupertino** for iOS devices
-- **Responsive** to all screen sizes,**Adaptive** to platform ( iOS / Android / Web ) & with Layout switching between Portrait / Landscape
+- **Responsive** to all screen sizes,**Adaptive** to platform ( iOS / Android / Web ) & with Layout switching between **Portrait / Landscape**
+- Built with **Flutter** using the **Dart** & Flutter widgets |  **Material UI** Frontend for Android & **Cupertino** for iOS devices | **Firebase** as database
 
-### <span class="project-heading">Boyo-Hotels App<div class="link">[GitHub](https://github.com/iamartyaa/BoyoHotels-App) </div></span> <span class="technologies">2 week (15+ hours)</span>
+### <span class="project-heading">Boyo-Hotels<div class="link">[GitHub](https://github.com/iamartyaa/BoyoHotels-App) </div></span> <span class="technologies">2 Week (15+ hours)</span>
 
 A Hotel booking app built in similarity with Oyo app (as the name itself gives a hint).
 
-- Built with **Flutter & Dart** on the frontend using **Material UI**
-- Similar screen layout as that of Oyo app with features like Booking Hotel, displaying User Bookings, marking Hotels as Favourites & much more coming soon
+- Built with **Flutter & Dart** on the frontend using **Material UI** | **UI/UX** similar to Oyo Hotels app 
 <!-- - Made with an aim to incoperate various **Flutter Widgets** & display proficiency in Flutter & Dart internals -->
 
-### <span class="project-heading">HappyMeals App<div class="link">[GitHub](https://github.com/iamartyaa/HappyMeals-App) </div></span> <span class="technologies">1 week (6+ hours)</span>
+<!-- ### <span class="project-heading">Otaku<div class="link">[GitHub](https://github.com/iamartyaa/HappyMeals-App) </div></span> <span class="technologies">1 week (6+ hours)</span>
 
-An app to display Meals according to different Cusines alongwith various filters available.
+An app to display Meals according to different Cusines alongwith various filters & features available.
 
 - Built with **Flutter & Dart** on the frontend using **Material UI** | Features like **Favourites & Filters** to render meals 
-
+ -->
 ## Achievements
 
 - **Pupil** at Codeforces (max. 1220) & Codechef (max. 1796) , **Top 20%** at LeetCode globally
-- **Google Hashcode** 2022 : Global rank 2990 , India rank 1204
+- **Google Hashcode** 2022 : Global rank 2990 , India rank **1204**
 - **Rank 2** in **CodeChef HBTU Chapter** programming contest hosted on CodeChef. Won limited edition CodeChef water bottle  
 - 30 Days of Google Cloud Platform | Certified by **Milvus.io** Open source Contribution | Certified by **Google** & **Linkedin** Git & Version Control Systems
+- 6 months+ Experience with Application Development ( Android ) , RESTful APIs, Realtime Database, building unique UI/UX
