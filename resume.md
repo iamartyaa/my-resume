@@ -32,7 +32,7 @@ CGPA: 9.0/10
 - Integrated features like Travjo Buddy. Worked extensively with Flutter, Firebase (Auth, Firestore, Realtime DB, Cloud Storage) & tons of APIs like Google Map API etc
 
 
-### Technical Content Writer: GeeksforGeeks <span class="technologies">October 2021 -- Present</span>
+### Technical Content Writer: GeeksforGeeks <span class="technologies">October 2021 -- January 2022</span>
 
 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/iamartyayadav/profile) is a Computer Science portal for geeks.
 
@@ -83,12 +83,12 @@ An app to keep track of all user transactions & display a bar graph showing tran
 
 - **Responsive** to all screen sizes,**Adaptive** to platform ( iOS / Android / Web ) & with Layout switching between **Portrait / Landscape**
 - Built with **Flutter** using the **Dart** & Flutter widgets |  **Material UI** Frontend for Android & **Cupertino** for iOS devices | **Firebase** as database -->
-
+<!-- 
 ### <span class="project-heading">Boyo-Hotels<div class="link">[GitHub](https://github.com/iamartyaa/BoyoHotels-App) </div></span> <span class="technologies">2 Week (15+ hours)</span>
 
 A Hotel booking app built in similarity with Oyo app (as the name itself gives a hint).
 
-- Built with **Flutter & Dart** on the frontend using **Material UI** | **UI/UX** similar to Oyo Hotels app 
+- Built with **Flutter & Dart** on the frontend using **Material UI** | **UI/UX** similar to Oyo Hotels app  -->
 
 ## Achievements
 
@@ -96,4 +96,4 @@ A Hotel booking app built in similarity with Oyo app (as the name itself gives a
 - **Google Hashcode** 2022 : Global rank 2990 , India rank **1204**
 - **Rank 2** in **CodeChef HBTU Chapter** programming contest hosted on CodeChef. Won limited edition CodeChef water bottle  
 - 30 Days of Google Cloud Platform | Certified by **Milvus.io** Open source Contribution | Certified by **Google** & **Linkedin** Git & Version Control Systems
-- **6 months+** Experience with Application Development ( Android ) , RESTful APIs, Realtime Database, building unique **UI/UX**
+<!-- - **6 months+** Experience with Application Development ( Android ) , RESTful APIs, Realtime Database, building unique **UI/UX** -->
