@@ -15,7 +15,7 @@
 
 Harcourt Butler Technical University- Kanpur, Uttar Pradesh, India
 <br>
-CGPA: 9.0/10 
+CGPA: 9.23/10 
 
 ## Skills & Technologies
 
