@@ -1,5 +1,6 @@
 # Amartya Yadav
 
+- [+91 7007144420]()
 - <iamartyayadav@gmail.com>
 - [GitHub](https://github.com/iamartyaa)
 - [LinkedIn](https://www.linkedin.com/in/iamartyaa/)
@@ -24,9 +25,16 @@ CGPA: 9.23/10
 
 ## Experience
 
-### Flutter Developer <span class="technologies">July 2022 -- Present</span>
+### Front-end Developer Flutter <span class="technologies">July 2022 -- Present</span>
 
-[Travjo](https://travjo.com/#/) a TravelTech company that aspires at making tourism smooth, safe and organized by eradicating middlemen and scammers through excellent technology innovation.
+[Product IO Technologies](https://product-io.com/) 
+
+- Creating multi-platform apps for iOS and Android using Google's Flutter development framework
+- Optimize the overall User Experience and then working towards the expansion of the platform
+
+### Flutter Developer <span class="technologies">June 2022 -- July 2022</span>
+
+[Travjo](https://travjo.com/#/)
 
 - Worked on the Travjo App deployed on Apple Store & Play Store
 - Integrated features like Travjo Buddy. Worked extensively with Flutter, Firebase (Auth, Firestore, Realtime DB, Cloud Storage) & tons of APIs like Google Map API etc
@@ -48,7 +56,7 @@ CGPA: 9.23/10
 
 ### <span>Postman Student Expert</span> <span class="technologies">January 2022</span>
 
-[Postman Student Expert](https://www.postman.com/company/student-program/) is a **Week-long** program powered by Postman.
+[Postman Student Expert](https://www.postman.com/company/student-program/) 
 
 - Proficient in **Creating & Testing APIs** in Postman | Edit documentation & Write **pre-request scripts & tests** for API calls 
 <!-- - Edit documentation for a collection & Write **pre-request scripts & tests** for API calls  -->
@@ -61,7 +69,7 @@ CGPA: 9.23/10
 An App to quickly set up & chat with your buddies with a cleaner UI/UX.
 
 - Built with **Flutter** using the **Dart** & Flutter widgets |  **Material UI** Frontend for Android | Backend with Firebase Auth, Firebase Firestore
-- Doped with features like Push Notifications, integrated Cloud Functions & Storage | Extensive backend Application
+- Doped with features like **Push Notifications**, integrated **Cloud Functions & Storage** | Extensive backend Application
 
 
 ### <span class="project-heading">Pirate Island<div class="link">[GitHub](https://github.com/iamartyaa/chatapp) </div></span> <span class="technologies"> 1 Week (36+ Hours)</span>
@@ -75,25 +83,12 @@ An app to register yourself on Pirate island and kickstart your journey as an am
 A Shopping app with almost all the features that a real-world e-commerce app offers.
 
 - Built with **Flutter** using the **Dart** & Flutter widgets |  **Material UI** Frontend for Android & **Cupertino** for iOS devices
-- Amazing **UI/UX** | Authentication ( Login / Sign Up) with **Firebase** | Fetching data with **RESTful APIs** | **Realtime Firebase** database
-
-<!-- ### <span class="project-heading">MyWallet<div class="link">[GitHub](https://github.com/iamartyaa/MyWallet-App) </div></span> <span class="technologies"> 1 Week (10+ hours)</span>
-
-An app to keep track of all user transactions & display a bar graph showing transactions made on each day over the last week.
-
-- **Responsive** to all screen sizes,**Adaptive** to platform ( iOS / Android / Web ) & with Layout switching between **Portrait / Landscape**
-- Built with **Flutter** using the **Dart** & Flutter widgets |  **Material UI** Frontend for Android & **Cupertino** for iOS devices | **Firebase** as database -->
-<!-- 
-### <span class="project-heading">Boyo-Hotels<div class="link">[GitHub](https://github.com/iamartyaa/BoyoHotels-App) </div></span> <span class="technologies">2 Week (15+ hours)</span>
-
-A Hotel booking app built in similarity with Oyo app (as the name itself gives a hint).
-
-- Built with **Flutter & Dart** on the frontend using **Material UI** | **UI/UX** similar to Oyo Hotels app  -->
+- Authentication ( Login / Sign Up) with **Firebase** | Fetching data with **RESTful APIs** | **Realtime Firebase** database
 
 ## Achievements
 
 - **Pupil** at Codeforces (max. 1220) & Codechef (max. 1796) , **Top 20%** at LeetCode globally
 - **Google Hashcode** 2022 : Global rank 2990 , India rank **1204**
 - **Rank 2** in **CodeChef HBTU Chapter** programming contest hosted on CodeChef. Won limited edition CodeChef water bottle  
-- 30 Days of Google Cloud Platform | Certified by **Milvus.io** Open source Contribution | Certified by **Google** & **Linkedin** Git & Version Control Systems
-<!-- - **6 months+** Experience with Application Development ( Android ) , RESTful APIs, Realtime Database, building unique **UI/UX** -->
+- **Postman Student Expert** : Proficient in **Creating & Testing APIs** in Postman | Write **pre-request scripts & tests** for API calls
+- 30 Days of **Google Cloud Platform** | Certified by **Milvus.io** Open source Contribution | Certified by **Google** & **Linkedin** Git & Version Control Systems
