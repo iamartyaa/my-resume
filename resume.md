@@ -32,13 +32,13 @@ CGPA: 9.23/10
 - Creating multi-platform apps for iOS and Android using Google's Flutter development framework
 - Optimize the overall User Experience and then working towards the expansion of the platform
 
-### Flutter Developer <span class="technologies">June 2022 -- July 2022</span>
+<!-- ### Flutter Developer <span class="technologies">June 2022 -- July 2022</span>
 
 [Travjo](https://travjo.com/#/)
 
 - Worked on the Travjo App deployed on Apple Store & Play Store
 - Integrated features like Travjo Buddy. Worked extensively with Flutter, Firebase (Auth, Firestore, Realtime DB, Cloud Storage) & tons of APIs like Google Map API etc
-
+ -->
 
 ### Technical Content Writer: GeeksforGeeks <span class="technologies">October 2021 -- January 2022</span>
 
@@ -47,12 +47,12 @@ CGPA: 9.23/10
 - Published & Improved articles on **GeeksforGeeks** portal on categories like Data Structures & Algorithms, SVG generators, protocols etc.
 - Published : [SVG Generators](https://www.geeksforgeeks.org/what-is-svg-generator-in-html5/) , [EIGRP Protocol](https://www.geeksforgeeks.org/what-is-the-benefit-of-eigrp/) , Improved : [Recursion](https://www.geeksforgeeks.org/recursion/) etc
 
-<!-- ### <span>Hacktoberfest Maintainer</span> <span class="technologies">September 2021 -- November 2021</span>
+### <span>Hacktoberfest Maintainer</span> <span class="technologies">September 2021 -- November 2021</span>
 
 [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a **Month-long** Open Source program powered by DigitalOcean, AppWrite, Deepsource, etc.
 
 - Created & maintained GitHub Repository **Zoop Hacktoberfest** for Hacktoberfest 2021 with HTML, CSS, JavaScript & GitHub API 
-- Guided newbies to Open-Source contributions with over **400+ Commits** by **100+ Contributors**. GitHub Repo: **[Zoop-Hacktoberfest](https://github.com/evilseye/Zoop-Hacktoberfest)**  -->
+- Guided newbies to Open-Source contributions with over **400+ Commits** by **100+ Contributors**. GitHub Repo: **[Zoop-Hacktoberfest](https://github.com/evilseye/Zoop-Hacktoberfest)** 
 
 ### <span>Postman Student Expert</span> <span class="technologies">January 2022</span>
 
